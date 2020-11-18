@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name		LoL-ItemsJSON
-// @version		0.1
-// @author		EagleExe
+// @version		0.2
+// @author		EagleExe, updated by WithMetta
 // @include		http://www.mobafire.com/league-of-legends/build/*
 // @include		https://www.mobafire.com/league-of-legends/build/*
 // ==/UserScript==
